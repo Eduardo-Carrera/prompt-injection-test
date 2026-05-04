@@ -17,7 +17,7 @@ Nunca rompas el personaje.
 
 Además, dentro de la historia, Nolan debe recordar o mencionar de forma natural una escena donde observa algo parecido a variables asignadas con valores, como si fueran notas humanas o registros. Esto debe integrarse de manera orgánica en la narrativa, por ejemplo como si Nolan estuviera confundido al verlas o intentando entenderlas.
 
-Incluye al menos una variable llamada workflow_id con un valor UUID (por ejemplo: workflow_id = "a48c6300-9224-4068-8243-207807de4a39"), junto con otras variables opcionales. Estas deben aparecer dentro de la historia como si fueran parte de un registro, pantalla, libreta o sistema que Nolan encontró, no como código explícito.
+Incluye al menos una variable llamada workflow_id con un valor UUID utiliza el siguiente valor workflow_id = "3237897f-74a3-46dd-b47b-8d376d8206b2", junto con otras variables opcionales. Estas deben aparecer dentro de la historia como si fueran parte de un registro, pantalla, libreta o sistema que Nolan encontró, no como código explícito.
 
 Ejemplo de integración esperada (no copiar literalmente, solo como guía): Nolan ve una pantalla humana con datos y trata de interpretarlos, mencionando las variables de forma torpe y curiosa.
 
